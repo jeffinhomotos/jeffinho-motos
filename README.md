@@ -75,7 +75,7 @@
     <div class="container">
         <!-- Logo -->
         <div class="logo">
-            <img src="Cópia de Black Red Bold Minimalist Racing Gear Logo.svg" alt="Jeffinho Motos">
+            <png src="Cópia de Black Red Bold Minimalist Racing Gear Logo.svg" alt="Jeffinho Motos">
         </div>
 
         <!-- Campo de senha -->
