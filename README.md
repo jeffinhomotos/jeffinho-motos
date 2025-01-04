@@ -85,7 +85,7 @@
         <button onclick="checkPassword()">Acessar</button>
 
         <!-- Rodapé -->
-        <div class="footer">WhatsApp: (48) 99663-2003</div>
+        <div class="footer"></div>
     </div>
 
     <script>
